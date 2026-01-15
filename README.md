@@ -1,2 +1,2 @@
-# MetOcean profile of OGC API - Maps
+# MetOcean Profile of OGC API - Maps
 
