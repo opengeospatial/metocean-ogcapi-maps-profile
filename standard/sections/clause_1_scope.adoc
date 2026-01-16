@@ -1,0 +1,10 @@
+== Scope
+
+The MetOcean Profile for OGC API - Maps provides a set of Requirements, Recommendations and Permissions for the for the visualization of meteorological and oceanographic data using OGC API - Maps - Part 1: Core in support of deeper domain interoperability.
+
+This document specifically supports the following:
+
+- Discovery of MetOcean specific visualization capabilities from an OGC API - Maps service
+- Description of MetOcean data using spatial, temporal, additional dimensions and subsets (e.g. for numerical weather prediction data)
+- Description of subset nomenclature and usage (model runs, elevation, pressure levels)
+- A parameter for specifying MetOcean variables for data visualization (model run times, forecast hours)

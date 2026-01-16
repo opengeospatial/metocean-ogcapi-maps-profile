@@ -1,0 +1,85 @@
+.Preface
+
+The MetOcean Profile for OGC API - Maps provides Requirements, Recommendations and Permissions for visualization via OGC API - Maps for meteorological and oceanographic data.
+
+The Standard has been informed by the OGC API - Maps - Part 1: Core Standard https://docs.ogc.org/is/20-058/20-058.html[OGC 20-058], the OGC API - Environmental Data Retrieval Standard https://docs.ogc.org/is/19-086r6/19-086r6.html[19-086r6], as well as the OGC Best Practice for using Web Map Services (WMS) with Time-Dependent or Elevation-Dependent Data https://portal.ogc.org/files/?artifact_id=56394[12111-r1].
+
+The goal of this document is to provide a basis for meteorological and oceanographic visualization using OGC API - Maps - Part 1: Core.
+
+////
+*OGC Declaration*
+////
+
+Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights. The Open Geospatial Consortium shall not be held responsible for identifying any or all such patent rights.
+
+Recipients of this document are requested to submit, with their comments, notification of any relevant patent claims or other intellectual property rights of which they may be aware that might be infringed by any implementation of the standard set forth in this document, and to provide supporting documentation.
+
+////
+NOTE: Uncomment ISO section if necessary
+
+*ISO Declaration*
+
+ISO (the International Organization for Standardization) is a worldwide federation of national standards bodies (ISO member bodies). The work of preparing International Standards is normally carried out through ISO technical committees. Each member body interested in a subject for which a technical committee has been established has the right to be represented on that committee. International organizations, governmental and non-governmental, in liaison with ISO, also take part in the work. ISO collaborates closely with the International Electrotechnical Commission (IEC) on all matters of electrotechnical standardization.
+
+International Standards are drafted in accordance with the rules given in the ISO/IEC Directives, Part 2.
+
+The main task of technical committees is to prepare International Standards. Draft International Standards adopted by the technical committees are circulated to the member bodies for voting. Publication as an International Standard requires approval by at least 75 % of the member bodies casting a vote.
+
+Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights. ISO shall not be held responsible for identifying any or all such patent rights.
+////
+
+[abstract]
+== Abstract
+
+This document defines Requirements, Recommendations and Permissions pertaining to meteorological and oceanographic data visualization using OGC API - Maps - Part 1 : Core.  Specifically, this document further clarifies and restricts the use of OGC API - Maps - Part 1: Core for deeper interoperability among meteorological and oceanographic domains, and consistency for non-experts in other communities.
+
+
+== Preface
+
+This document is the result of longstanding data visualization efforts in the meteorology and oceanography community, as part of the OGC Meteorology and Oceanography Domain Working Group (MetOcean DWG) of the Technical Committee of the OGC.  The OGC Best Practice for using Web Map Services (WMS) with Time-Dependent or Elevation-Dependent Data https://portal.ogc.org/files/?artifact_id=56394[12111-r1] provided guidelines in the context of first-generation OGC Web Services.  Given the evolution of https://ogcapi.ogc.org[OGC API] efforts, coupled with the proliferation of weather, climate and water data (model resolutions, frequency of observations, dual pole radar, etc.), OGC API - Maps - Part 1: Core is better suited to address the explosion of data in the aforementioned domains.  The architectural paradigm shift of data and interface standards (Service Oriented (SOA) to Resource Oriented [ROA]) also supports the growing demand for data visualization at scale.
+
+[NOTE]
+====
+Insert Preface Text here. Give OGC specific commentary: describe the technical content, reason for document, history of the document and precursors, and plans for future work. >
+Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights. The Open Geospatial Consortium shall not be held responsible for identifying any or all such patent rights.
+
+Recipients of this document are requested to submit, with their comments, notification of any relevant patent claims or other intellectual property rights of which they may be aware that might be infringed by any implementation of the standard set forth in this document, and to provide supporting documentation.
+====
+
+== Security considerations
+
+//If no security considerations have been made for this Standard, use the following text.
+
+No security considerations have been made for this Standard.
+
+////
+If security considerations have been made for this Standard, follow the examples found in IANA or IETF documents. Please see the following example.
+“VRRP is designed for a range of internetworking environments that may employ different security policies. The protocol includes several authentication methods ranging from no authentication, simple clear text passwords, and strong authentication using IP Authentication with MD5 HMAC. The details on each approach including possible attacks and recommended environments follows.
+Independent of any authentication type VRRP includes a mechanism (setting TTL=255, checking on receipt) that protects against VRRP packets being injected from another remote network. This limits most vulnerabilities to local attacks.
+NOTE: The security measures discussed in the following sections only provide various kinds of authentication. No confidentiality is provided at all. This should be explicitly described as outside the scope....”
+////
+
+== Submitters
+
+All questions regarding this submission should be directed to the editor or the submitters:
+
+|===
+|*Name* |*Affiliation*
+|Tom Kralidis (editor)|Meteorological Service of Canada
+|Chris Little|UK Met Office
+|Steve Olson|National Oceanic and Atmospheric Administration, National Weather Service
+|Mark Burgoyne|UK Met Office
+|James Hawkes|European Centre for Medium-Range Weather Forecasts
+|Adam Warde|European Centre for Medium-Range Weather Forecasts
+|===
+
+//== Contributors
+//This clause is optional.
+//
+//Additional contributors to this Standard include the following:
+//
+//Individual name(s), Organization
+
+== Acknowledgements
+
+This document acknowledges the inputs of the members of the OGC Meteorology and Oceanography Domain Working Group, the World Meteorological Organization (WMO), as well as all contributors of change requests and comments.

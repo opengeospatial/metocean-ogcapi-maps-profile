@@ -1,0 +1,5 @@
+[bibliography]
+[[Bibliography]]
+== Bibliography
+
+* [[[wmo-metdx-ie,wmo-metdx-ie]]], World Meteorological Organization. WMO Met Data Exchange Interoperability Experiment [online, viewed 2026-01-17], https://wmo-im.github.io/metdx-ie/metdx-ie/metdx-ie-DRAFT.html

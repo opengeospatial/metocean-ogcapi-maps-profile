@@ -1,0 +1,46 @@
+== Terms and definitions
+
+This document uses the terms defined in OGC Policy Directive 49, which is based on the ISO/IEC Directives, Part 2, Rules for the structure and drafting of International Standards. In particular, the word "`shall`" (not "`must`") is the verb form used to indicate a requirement to be strictly followed to conform to this standard.
+
+For the purposes of this document, the following additional terms and definitions apply.
+
+==== Collection
+A geospatial resource that may be available as one or more sub-resource distributions that conform to one or more OGC API Standards.
+
+==== Dataset
+A collection of data, published or curated by a single agent, and available for access or download in one or more representations. (DCAT)
+
+==== Instance
+
+Attribute, such as version, release, or run, of a given data collection.
+
+==== Model run
+
+TODO
+
+==== Forecast hour
+
+TODO
+
+=== Abbreviated terms
+
+API::
+  Application Programming Interface
+HTTP::
+  Hypertext Transfer Protocol
+HTTPS::
+  Hypertext Transfer Protocol Secure
+IANA::
+  Internet Assigned Numbers Authority
+JSON::
+  JavaScript Object Notation
+NWP::
+  Numerical Weather Prediction
+OGC::
+  Open Geospatial Consortium
+WIS::
+  WMO Information System
+WMO::
+  World Meteorological Organization
+WMS::
+  Web Map Service
