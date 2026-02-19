@@ -68,6 +68,7 @@ All questions regarding this submission should be directed to the editor or the 
 |Tom Kralidis (editor)|Meteorological Service of Canada
 |Chris Little|UK Met Office
 |Steve Olson|National Oceanic and Atmospheric Administration, National Weather Service
+|Jeremy Tandy|UK Met Office
 |Mark Burgoyne|UK Met Office
 |James Hawkes|European Centre for Medium-Range Weather Forecasts
 |Adam Warde|European Centre for Medium-Range Weather Forecasts
