@@ -3,7 +3,7 @@
         "OGC_doc_number": "26-002",
         "urn": "http://www.opengis.net/doc/profile/metocean-ogcapi-maps/1.0",
         "title": "MetOcean profile for OGC API - Maps",
-        "path": "standard/document.adoc",
+        "path": "profile/document.adoc",
         "options": [
             "--trace"
         ],
