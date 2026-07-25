@@ -4,21 +4,23 @@ This document uses the terms defined in OGC Policy Directive 49, which is based 
 
 For the purposes of this document, the following additional terms and definitions apply.
 
-==== Collection
+=== Collection
+
 A geospatial resource that may be available as one or more sub-resource distributions that conform to one or more OGC API Standards.
 
-==== Dataset
+=== Dataset
+
 A collection of data, published or curated by a single agent, and available for access or download in one or more representations. (DCAT)
 
-==== Instance
+=== Instance
 
 Attribute, such as version, release, or run, of a given data collection.
 
-==== Model run
+=== Model run
 
 TODO
 
-==== Forecast hour
+=== Forecast hour
 
 TODO
 

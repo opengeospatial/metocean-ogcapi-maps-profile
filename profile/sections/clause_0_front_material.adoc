@@ -38,14 +38,6 @@ This document defines Requirements, Recommendations and Permissions pertaining t
 
 This document is the result of longstanding data visualization efforts in the meteorology and oceanography community, as part of the OGC Meteorology and Oceanography Domain Working Group (MetOcean DWG) of the Technical Committee of the OGC.  The OGC Best Practice for using Web Map Services (WMS) with Time-Dependent or Elevation-Dependent Data https://portal.ogc.org/files/?artifact_id=56394[12111-r1] provided guidelines in the context of first-generation OGC Web Services.  Given the evolution of https://ogcapi.ogc.org[OGC API] efforts, coupled with the proliferation of weather, climate and water data (model resolutions, frequency of observations, dual pole radar, etc.), OGC API - Maps - Part 1: Core is better suited to address the explosion of data in the aforementioned domains.  The architectural paradigm shift of data and interface standards (Service Oriented (SOA) to Resource Oriented [ROA]) also supports the growing demand for data visualization at scale.
 
-[NOTE]
-====
-Insert Preface Text here. Give OGC specific commentary: describe the technical content, reason for document, history of the document and precursors, and plans for future work. >
-Attention is drawn to the possibility that some of the elements of this document may be the subject of patent rights. The Open Geospatial Consortium shall not be held responsible for identifying any or all such patent rights.
-
-Recipients of this document are requested to submit, with their comments, notification of any relevant patent claims or other intellectual property rights of which they may be aware that might be infringed by any implementation of the standard set forth in this document, and to provide supporting documentation.
-====
-
 == Security considerations
 
 //If no security considerations have been made for this Standard, use the following text.
