@@ -2,7 +2,7 @@
 
 The MetOcean Profile for OGC API - Maps provides Requirements, Recommendations and Permissions for visualization via OGC API - Maps for meteorological and oceanographic data.
 
-The Standard has been informed by the OGC API - Maps - Part 1: Core Standard https://docs.ogc.org/is/20-058/20-058.html[OGC 20-058], the OGC API - Environmental Data Retrieval Standard https://docs.ogc.org/is/19-086r6/19-086r6.html[19-086r6], as well as the OGC Best Practice for using Web Map Services (WMS) with Time-Dependent or Elevation-Dependent Data https://portal.ogc.org/files/?artifact_id=56394[12111-r1].
+The Profile has been informed by the OGC API - Maps - Part 1: Core Standard https://docs.ogc.org/is/20-058/20-058.html[OGC 20-058], the OGC API - Environmental Data Retrieval Standard https://docs.ogc.org/is/19-086r6/19-086r6.html[19-086r6], as well as the OGC Best Practice for using Web Map Services (WMS) with Time-Dependent or Elevation-Dependent Data https://portal.ogc.org/files/?artifact_id=56394[12111-r1].
 
 The goal of this document is to provide a basis for meteorological and oceanographic visualization using OGC API - Maps - Part 1: Core.
 
